@@ -1,0 +1,1 @@
+ALTER TABLE `questionarios` ADD `whatsapp` varchar(20) NOT NULL;

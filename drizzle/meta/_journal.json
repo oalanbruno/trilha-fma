@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762887399545,
+      "tag": "0000_uneven_grey_gargoyle",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762887428124,
+      "tag": "0001_glamorous_starhawk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1762888157178,
+      "tag": "0002_smiling_living_tribunal",
+      "breakpoints": true
+    }
+  ]
+}
